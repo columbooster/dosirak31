@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>
-	Hello world!  
+	community게시판 작업을 위한 feature 브런치 생성 
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
